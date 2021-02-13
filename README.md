@@ -1,4 +1,4 @@
-If you want to edit the loot-tables, then goto misode.github.io/loot-table/
+If you want to edit the loot-tables, then goto <a href="https://misode.github.io/loot-table/">here</a>
 
 Replace the loot-table on the right side with the loot table you want to edit
 
